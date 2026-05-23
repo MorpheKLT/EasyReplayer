@@ -54,7 +54,3 @@ pip install customtkinter pynput pydirectinput
 1. **Launch the App** Run `main.py` inside the `src` folder and accept the Windows UAC administrative pop-up prompt.
 2. **Recording Macros** Type a recognizable file name, click **Record (R)** (or press your global `R` key), and perform your routine. Hit **Esc** when finished. Your macro will be safely archived into the `/actions` directory.
 3. **Replaying Macros** Select your macro from the dropdown, slide to your ideal speed modifier, toggle infinite loop preferences if desired, and click **Replay (P)** (or press your global `P` key).
-
-```
-
-```
